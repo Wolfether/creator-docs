@@ -101,6 +101,13 @@ methods:
                   during pathfinding is allowed.</td>
               </tr>
               <tr>
+                  <td><b>AgentJumpHeight</b></td>
+                  <td>number</td>
+                  <td>7.2</td>
+                  <td>Determines vertical distance traveled with a jump before
+                  considered impossible.</td>
+              </tr>
+              <tr>
                   <td><b>WaypointSpacing</b></td>
                   <td>number</td>
                   <td>4</td>
